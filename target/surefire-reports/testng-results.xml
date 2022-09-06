@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="56" started-at="2022-07-25T07:38:34Z" finished-at="2022-07-25T07:38:34Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="56" started-at="2022-07-25T07:38:34Z" finished-at="2022-07-25T07:38:34Z">
+      <class name="flyonit.MavenJava.SeleniumTest">
+        <test-method status="PASS" signature="browserOpen()[pri:0, instance:flyonit.MavenJava.SeleniumTest@4e91d63f]" name="browserOpen" duration-ms="0" started-at="2022-07-25T07:38:34Z" finished-at="2022-07-25T07:38:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserOpen -->
+        <test-method status="PASS" signature="hitUrl()[pri:0, instance:flyonit.MavenJava.SeleniumTest@4e91d63f]" name="hitUrl" duration-ms="1" started-at="2022-07-25T07:38:34Z" finished-at="2022-07-25T07:38:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hitUrl -->
+      </class> <!-- flyonit.MavenJava.SeleniumTest -->
+      <class name="flyonit.MavenJava.RestAPITest">
+        <test-method status="PASS" signature="getAPI()[pri:0, instance:flyonit.MavenJava.RestAPITest@1a04f701]" name="getAPI" duration-ms="13" started-at="2022-07-25T07:38:34Z" finished-at="2022-07-25T07:38:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAPI -->
+        <test-method status="PASS" signature="postAPI()[pri:0, instance:flyonit.MavenJava.RestAPITest@1a04f701]" name="postAPI" duration-ms="1" started-at="2022-07-25T07:38:34Z" finished-at="2022-07-25T07:38:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postAPI -->
+      </class> <!-- flyonit.MavenJava.RestAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

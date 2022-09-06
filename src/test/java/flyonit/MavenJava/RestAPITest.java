@@ -9,6 +9,8 @@ public class RestAPITest {
 	{
 		System.out.println("Get The API");
 		
+		System.out.println("Learning GIT");
+		
 	}
 	
 	@Test
